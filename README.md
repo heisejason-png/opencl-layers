@@ -44,3 +44,4 @@ OPENCL_LAYERS=/path/to/OpenCL-Layers/build/object-lifetime/libCLObjectLifetimeLa
 
 A more in-depth tutorial can be found here:
 [OpenCL-Layers-Tutorial](https://github.com/Kerilk/OpenCL-Layers-Tutorial)
+Created by Jason Scott Heise
